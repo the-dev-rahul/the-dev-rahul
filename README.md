@@ -1,4 +1,4 @@
-**Hey, I'm Kishan Patel 👋**
+**Hey, I'm Rahul Parmar 👋**
 ☁️ Cloud & DevOps Engineer | 💻 Python, Node, React, Angular Enthusiast | 🌐 Tech Explorer
 
 Welcome to my GitHub profile! I'm Kishan Patel, a dedicated Cloud and DevOps engineer with a passion for creating scalable and efficient systems. With a solid foundation in Python, Node, React, and Angular, I strive to bridge the gap between development and operations. Let's embark on a journey through my tech world!
@@ -22,10 +22,12 @@ I've had the privilege of contributing to diverse projects. Here are a few highl
 Boloo: A SAAS platform tool to grow, scale, and increase profit for eCommerce businesses.
 M-Trade: MTrade is a stocks management and bonds trading platform.
 Youhue: YouHue is an emotion-based learning application
+
 📫 Let's Connect
 I'm always open to connecting with fellow engineers, developers, and tech enthusiasts. Feel free to reach out through the following channels:
 
-Email: kishan.devops@gmail.com
+Email: rahul.synchronizedcodelab@gmail.com
+
 ⚡ Fun Fact
 Outside the realm of technology, I enjoy experimenting with new recipes and consider myself a bit of a culinary enthusiast. Cooking is my creative outlet!
 
