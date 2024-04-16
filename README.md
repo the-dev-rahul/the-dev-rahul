@@ -1,7 +1,7 @@
 **Hey, I'm Rahul Parmar 👋**
-☁️ Cloud & DevOps Engineer | 💻 Python, Node, React, Angular Enthusiast | 🌐 Tech Explorer
+☁️ Fullstack Engineer | 💻 Python, Node, React, Angular Enthusiast | 🌐 Tech Explorer
 
-Welcome to my GitHub profile! I'm Kishan Patel, a dedicated Cloud and DevOps engineer with a passion for creating scalable and efficient systems. With a solid foundation in Python, Node, React, and Angular, I strive to bridge the gap between development and operations. Let's embark on a journey through my tech world!
+Welcome to my GitHub profile! I'm Rahul Parmar, a dedicated Fullstack and DevOps engineer with a passion for creating scalable and efficient systems. With a solid foundation in Python, Node, React, and Angular, I strive to bridge the gap between development and operations. Let's embark on a journey through my tech world!
 
 💻 My Tech Stack
 Cloud & DevOps: AWS, Azure, Docker, Kubernetes
