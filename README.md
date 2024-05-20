@@ -1,5 +1,5 @@
 **Hey, I'm Rahul Parmar 👋**
-☁️ Fullstack Engineer | 💻 Python, Node, React, Angular Enthusiast | 🌐 Tech Explorer
+☁️ Fullstack Engineer | 💻 Python, Node, React Enthusiast | 🌐 Tech Explorer
 
 Welcome to my GitHub profile! I'm Rahul Parmar, a dedicated Fullstack and DevOps engineer with a passion for creating scalable and efficient systems. With a solid foundation in Python, Node, React, and Angular, I strive to bridge the gap between development and operations. Let's embark on a journey through my tech world!
 
@@ -26,7 +26,7 @@ Youhue: YouHue is an emotion-based learning application
 📫 Let's Connect
 I'm always open to connecting with fellow engineers, developers, and tech enthusiasts. Feel free to reach out through the following channels:
 
-Email: rahul.synchronizedcodelab@gmail.com
+Email: rahulparmar221098@gmail.com
 
 ⚡ Fun Fact
 Outside the realm of technology, I enjoy experimenting with new recipes and consider myself a bit of a culinary enthusiast. Cooking is my creative outlet!
